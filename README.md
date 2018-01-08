@@ -143,6 +143,9 @@ Application URL: [http://ec2-54-244-17-173.us-west-2.compute.amazonaws.com](http
 14. Update Oauth authorized JavaScript origins
 15. Restart Apache and launch the app
    - `sudo service apache2 restart`
+16. Notice: 
+   If only the public ip address showed the right page but the application url didn't show correctly. Try disable other .conf file
+   `a2dissite /etc/apache2/sites-available/000-default.conf`
      
     
 
