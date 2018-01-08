@@ -3,9 +3,9 @@
 Goals of the project
 >You will take a baseline installation of a Linux distribution on a virtual machine and prepare it to host your web applications, to include installing updates, securing it from a number of attack vectors and installing/configuring web and database servers.
 ## User information
-Public URL: [54.244.17.173](54.244.17.173)
+Public URL: 54.244.17.173
 Port: 2200
-Application URL: [ec2-54-244-17-173.us-west-2.compute.amazonaws.com](ec2-54-244-17-173.us-west-2.compute.amazonaws.com)
+Application URL: [http://ec2-54-244-17-173.us-west-2.compute.amazonaws.com](http://ec2-54-244-17-173.us-west-2.compute.amazonaws.com)
 ## Steps
 1. Create a new user grader and give it sudo permission
 `sudo adduser grader`
